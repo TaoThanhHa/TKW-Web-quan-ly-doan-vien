@@ -21,3 +21,4 @@ Website Quản Lý Đoàn Viên - một nền tảng trực tuyến được thi
 Frontend: HTML, CSS, JavaScript  
 Backend: Laravel
 Cơ sở dữ liệu: SQLite
+This is a great project!
