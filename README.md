@@ -13,9 +13,9 @@ Website Quản Lý Đoàn Viên - một nền tảng trực tuyến được thi
 
 - Sửa Đoàn Viên: Cập nhật thông tin của đoàn viên khi có thay đổi, đảm bảo dữ liệu luôn chính xác và mới nhất.
 
--Xóa Đoàn Viên: Xóa thông tin của đoàn viên không còn hoạt động hoặc không cần thiết, giúp giữ cho danh sách đoàn viên gọn gàng.
+- Xóa Đoàn Viên: Xóa thông tin của đoàn viên không còn hoạt động hoặc không cần thiết, giúp giữ cho danh sách đoàn viên gọn gàng.
 
--Tìm Kiếm Đoàn Viên: Tìm kiếm nhanh chóng đoàn viên theo tên giúp tiết kiệm thời gian và công sức.
+- Tìm Kiếm Đoàn Viên: Tìm kiếm nhanh chóng đoàn viên theo tên giúp tiết kiệm thời gian và công sức.
 
 ## Công nghệ sử dụng
 Frontend: HTML, CSS, JavaScript  
